@@ -1,16 +1,16 @@
 {
-    "name": "MaXiao/weather",
+    "name": "ma-xiao/weather",
     "description": "A weather SDK.",
     "license": "MIT",
     "authors": [
         {
-            "name": "maxiao",
+            "name": "ma-xiao",
             "email": "1156481157@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "MaXiao\\Weather\\": "./src"
+            "ma-xiao\\Weather\\": "./src"
         }
     },
     "require": {
@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MaXiao\\Weather\\ServiceProvider"
+                "ma-xiao\\Weather\\ServiceProvider"
             ]
         }
     }

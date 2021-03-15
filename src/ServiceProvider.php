@@ -1,6 +1,6 @@
 <?php
 
-namespace MaXiao\Weather;
+namespace ma-xiao\Weather;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
