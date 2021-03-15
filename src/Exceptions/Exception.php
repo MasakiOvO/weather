@@ -1,6 +1,6 @@
 <?php
 
-namespace ma-xiao\Weather\Exceptions;
+namespace MaXiao\Weather\Exceptions;
 
 class Exception extends \Exception
 {

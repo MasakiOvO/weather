@@ -1,9 +1,9 @@
 <?php
 
-namespace ma-xiao\Weather\Tests;
+namespace MaXiao\Weather\Tests;
 
-use ma-xiao\Weather\Exceptions\InvaildArgumentException;
-use ma-xiao\Weather\Weather;
+use MaXiao\Weather\Exceptions\InvaildArgumentException;
+use MaXiao\Weather\Weather;
 use PHPUnit\Framework\TestCase;
 
 class WeatheaTest extends TestCase

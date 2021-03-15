@@ -1,10 +1,10 @@
 <?php
 
-namespace ma-xiao\Weather;
+namespace MaXiao\Weather;
 
 use GuzzleHttp\Client;
-use ma-xiao\Weather\Exceptions\HttpException;
-use ma-xiao\Weather\Exceptions\InvaildArgumentException;
+use MaXiao\Weather\Exceptions\HttpException;
+use MaXiao\Weather\Exceptions\InvaildArgumentException;
 
 class Weather
 {
