@@ -4,13 +4,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "maxiao",
+            "name": "MaXiao",
             "email": "1156481157@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "maxiao\\Weather\\": "./src"
+            "MaXiao\\Weather\\": "./src"
         }
     },
     "require": {
@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "maxiao\\Weather\\ServiceProvider"
+                "MaXiao\\Weather\\ServiceProvider"
             ]
         }
     }
