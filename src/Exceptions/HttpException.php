@@ -1,6 +1,6 @@
 <?php
 
-namespace MaXiao\Weather\Exceptions;
+namespace maxiao\Weather\Exceptions;
 
 class HttpException extends Exception
 {
