@@ -1,16 +1,16 @@
 {
-    "name": "overtrue/weather",
+    "name": "MaXiao/weather",
     "description": "A weather SDK.",
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "i@overtrue.me"
+            "name": "maxiao",
+            "email": "1156481157@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Overtrue\\Weather\\": "./src"
+            "MaXiao\\Weather\\": "./src"
         }
     },
     "require": {
@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Overtrue\\Weather\\ServiceProvider"
+                "MaXiao\\Weather\\ServiceProvider"
             ]
         }
     }

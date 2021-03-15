@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\Weather\Exceptions;
+namespace MaXiao\Weather\Exceptions;
 
 class InvaildArgumentException extends Exception
 {
